@@ -7,11 +7,11 @@ from userbot.Config import Config
 from userbot.plugins import mention
 
 # zed
-K = "https://t.me/ZedThon"
-D = "** ⌔∮ مطور بوت زد ثـون**"
+K = "t.me/RAMBO_SYR"
+D = "** ⌔∮ مطور بوت رامبو ثـون**"
 
 OWNER_ID = Config.OWNER_ID
-ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@ZedThon"
+ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@RAMBO_SYR"
 
 # for OWNER_ID
 OId = Config.OWNER_ID
@@ -45,8 +45,8 @@ asst_p = "https://telegra.ph/file/5adc05c0958432a117183.jpg"
 asst_c = "➥ **ASSISTANT IS:** `ONLINE`\n"
 asst_c += f"➥ **My Boss** : {Def} \n"
 asst_c += "➥ **Heroku Database** : `AWS - Working Properly`\n"
-asst_c += "➥ **Copyright** : By [𝙕𝞝𝘿𝙏𝙃𝙊𝙉](https://github.com/Zedthon)\n"
-asst_c += "[Assistant By ](https://t.me/ZedThon)"
+asst_c += "➥ **Copyright** : By [𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹](t.me/RAMBO_SYR)\n"
+asst_c += "[Assistant By ](https://t.me/RAMBO_SYR)"
 
 # for ping
 def get_readable_time(seconds: int) -> str:
@@ -374,7 +374,7 @@ SetMsg = [
     "⌔∮ يتم اكمال تنصيب بوتك في @BotFather",
     "⌔∮ تم تنصيب بوتك"
 ]
-SetDec = "- 𝙕𝞝𝘿𝙏𝙃𝙊𝙉 𝘼𝙎𝙎𝙄𝙎𝙏𝘼𝙉𝙏 𝘽𝙊𝙏 🔱\n- ZED 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}\n- 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 ~ @ZedThon 𖤨"
-SetAbt = "- 𝙎𝙊𝙐𝙍𝘾𝙀 𝙕𝞝𝘿𝙏𝙃𝙊𝙉 🔱\n- ZED 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}"
+SetDec = "- 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ 𝘼𝙎𝙎𝙄𝙎𝙏𝘼𝙉𝙏 𝘽𝙊𝙏 🔱\n- RAMBO 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}\n- 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 ~ @RAMBO 𖤨"
+SetAbt = "- 𝙎𝙊𝙐𝙍𝘾𝙀 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ 🔱\n- RAMBO 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}"
 
 # This is For Icss - Userbot only!!
