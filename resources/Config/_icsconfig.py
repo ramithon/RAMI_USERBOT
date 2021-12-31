@@ -22,7 +22,7 @@ class Config(object):
     TOSH_START = os.environ.get("TOSH_START", None)
     TZ = os.environ.get("TZ", "Asia/Baghdad")
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/Zedthon/ZED_USERBOT.git"
+        "UPSTREAM_REPO", "https://github.com/ramithon/RAMI_USERBOT.git"
     )
 
     AUTONAME = os.environ.get("AUTONAME", None)
