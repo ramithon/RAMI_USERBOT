@@ -3,16 +3,16 @@
 # Wallpapers loaded from here
 
 W = (
-    "𓆰 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗭𝗲𝗱 - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🌁](t.me/ZEDthon) 𓆪\n\n"
+    "𓆰 [𝗦𝗼𝘂𝗿𝗰𝗲 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🌁](t.me/RAMBO_SYR) 𓆪\n\n"
     "**⸙ ⏐ قائـمه اوامر خلـفيات شاشـه :**\n\n"
     "⪼ `.خلفيات1`\n\n\n"
     "⪼ `.خلفيات2`\n\n\n"
-    "\n\n 𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗭𝗲𝗱 - قنـاة السـورس](t.me/ZEDthon) 𓆪"
+    "\n\n 𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - قنـاة السـورس](t.me/RAMBO_SYR) 𓆪"
 )
 
 
 WL = (
-    "𓆰 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗭𝗲𝗱 - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🌁](t.me/ZEDthon) 𓆪\n\n"
+    "𓆰 [𝗦𝗼𝘂𝗿𝗰𝗲 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🌁](t.me/RAMBO_SYR) 𓆪\n\n"
     "**⸙ ⏐ قائـمة خلفيات شاشـه - شبـابيـه 🙋🏻‍♂ :**\n"
     "⪼ `.و1`\n"
     "⪼ `.و2`\n"
@@ -34,12 +34,12 @@ WL = (
     "⪼ `.و18`\n"
     "⪼ `.و19`\n"
     "⪼ `.و20`\n"
-    "\n\n 𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗭𝗲𝗱 - قنـاة السـورس](t.me/ZEDthon) 𓆪"
+    "\n\n 𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - قنـاة السـورس](t.me/RAMBO_SYR) 𓆪"
 )
 
 
 BN = (
-    "𓆰 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗭𝗲𝗱 - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🌁](t.me/ZEDthon) 𓆪\n\n"
+    "𓆰 [𝗦𝗼𝘂𝗿𝗰𝗲 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🌁](t.me/RAMBO_SYR) 𓆪\n\n"
     "**⸙ ⏐ قائـمة خلفيات شاشـه - بنـاتيـه 🙋🏻‍♀ :**\n"
     "⪼ `.ب1`\n"
     "⪼ `.ب2`\n"
@@ -61,10 +61,10 @@ BN = (
     "⪼ `.ب18`\n"
     "⪼ `.ب19`\n"
     "⪼ `.ب20`\n"
-    "\n\n 𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗭𝗲𝗱 - قنـاة السـورس](t.me/ZEDthon) 𓆪"
+    "\n\n 𓆩 [𝗦𝗼𝘂𝗿𝗰𝗲 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - قنـاة السـورس](t.me/RAMBO_SYR) 𓆪"
 )
 
-WALAD = "𓆩 𝗦𝗼𝘂𝗿𝗰𝗲 𝗭𝗲𝗱 - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🙋🏻‍♂🌁 𓆪"
+WALAD = "𓆩 𝗦𝗼𝘂𝗿𝗰𝗲 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🙋🏻‍♂🌁 𓆪"
 sts_wallpapersw = "https://telegra.ph/file/b59d38a9c44f6e9347b52.jpg"
 sts_wallpapersw2 = "https://telegra.ph/file/b55112f021e54897e237f.jpg" 
 sts_wallpapersw3 = "https://telegra.ph/file/d11122de54132e710fb83.jpg"
@@ -85,7 +85,7 @@ sts_wallpapersw17 = "https://telegra.ph/file/e83c229f3aeaedee18116.jpg"
 sts_wallpapersw18 = "https://telegra.ph/file/c070165776c610f458b7f.jpg"
 sts_wallpapersw19 = "https://telegra.ph/file/2080029a99c18ebdc402b.jpg"
 sts_wallpapersw20 = "https://telegra.ph/file/8d721bdb4b143f63d4d3d.jpg"
-BANAT = "𓆩 𝗦𝗼𝘂𝗿𝗰𝗲 𝗭𝗲𝗱 - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🙋🏻‍♀🌁 𓆪"
+BANAT = "𓆩 𝗦𝗼𝘂𝗿𝗰𝗲 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - 𝑊𝐴𝐿𝐿𝑃𝐴𝑃𝐸𝑅𝑆 🙋🏻‍♀🌁 𓆪"
 sts_wallpapersb = "https://telegra.ph/file/ffae98067bd3efb528284.jpg"
 sts_wallpapersb2 = "https://telegra.ph/file/9470a220d7420244e5a64.jpg" 
 sts_wallpapersb3 = "https://telegra.ph/file/a49a4c2f8921a5a5cee05.jpg"
