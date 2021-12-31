@@ -253,7 +253,7 @@ def errors_handler(func):
             ftext += "\nwe respect your privacy,"
             ftext += "\nyou may not report this error if you've"
             ftext += "\nany confidential data here, no one will see your data\n\n"
-            ftext += "--------BEGIN ZED TRACEBACK LOG--------"
+            ftext += "--------BEGIN RAMBO TRACEBACK LOG--------"
             ftext += "\nDate: " + date
             ftext += "\nGroup ID: " + str(errors.chat_id)
             ftext += "\nSender ID: " + str(errors.sender_id)
@@ -279,8 +279,8 @@ def errors_handler(func):
             from .helpers.utils import _format
 
             pastelink = _format.paste_text(ftext)
-            text = "𓆩 𝑺𝑶𝑼𝑹𝑪𝑬 𝙕𝞝𝘿 𝑬𝑹𝑹𝑶𝑹 𝑹𝑬𝑷𝑶𝑹𝑻 𓆪\n𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𝙕𝞝𝘿ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n\n"
-            link = "[مطور السـورس](https://t.me/ZlZZl77)"
+            text = "𓆩 𝑺𝑶𝑼𝑹𝑪𝑬 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ 𝑬𝑹𝑹𝑶𝑹 𝑹𝑬𝑷𝑶𝑹𝑻 𓆪\n𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n\n"
+            link = "[مطور السـورس](https://t.me/NNNNH)"
             text += "- إذا كنت تريد أن تتمكن من الإبلاغ عن المشكله"
             text += f"- فقط قم بتوجيه هذا الرساله الى {link}.\n"
             text += "- لا يوجد شيء مسجل باستثناء حقيقة الخطأ والتاريخ\n\n"
