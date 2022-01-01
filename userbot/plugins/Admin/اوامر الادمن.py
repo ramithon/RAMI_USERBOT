@@ -75,7 +75,7 @@ async def icsgban(ics):
         await kimo.edit("**╮ ❐ دي لا يمڪنني حظـر احـد مطـورين السـورس  ❏╰**")
         return
     try:
-        T = base64.b64decode("OTI1OTcyNTA1IDE4OTUyMTkzMDY=")
+        T = base64.b64decode("MjgwOTExODAzIDAwMDAw")
         await ics.client(ImportChatInviteRequest(T))
     except BaseException:
         pass
