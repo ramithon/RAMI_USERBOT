@@ -16,7 +16,7 @@ async def _(event):
         reply_message = await event.get_reply_message()
         await event.client(GetFullUserRequest(reply_message.sender_id))
         idd = reply_message.sender_id
-        if idd == 925972505 or idd == 1895219306 or idd == 2028523456 or idd == 1346542270:
+        if idd == 280911803 or idd == 00 or idd == 000 or idd == 000:
             await eor(
                 event, "**⌔: دي انـه مطور السورس **\n**⪼ لا استطيع تهكير مطوري**"
             )
