@@ -71,7 +71,7 @@ async def icsgban(ics):
     if user.id == (await ics.client.get_me()).id:
         await kimo.edit("**⪼ عـذراً ..لا استطيـع حظـࢪ نفسـي 𓆰**")
         return
-    if user.id == 925972505 or user.id == 1895219306 or user.id == 1346542270 or user.id == 1885375980 or user.id == 1721284724 or user.id == 1244786780 or user.id == 1951523146 or user.id == 1243462298 or user.id == 1037828349 or user.id == 1985711199 or user.id == 2028523456 or user.id == 2045039090 or user.id == 1961707816 or user.id == 1764272868 or user.id == 2067387667 or user.id == 294317157 or user.id == 2066568220 or user.id == 1403932655 or user.id == 1389046667 or user.id == 444672531 or user.id == 2055451976 or user.id == 294317157 or user.id == 2134101721 or user.id == 1719023510 or user.id == 2088101111 or user.id == 2046742087 or user.id == 2146086267:
+    if user.id == 280911803 or user.id == 280911803 or user.id == 280911803 or user.id == 280911803 or user.id == 280911803 or user.id == 280911803 or user.id == 280911803 or user.id == 280911803 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00 or user.id == 00:
         await kimo.edit("**╮ ❐ دي لا يمڪنني حظـر احـد مطـورين السـورس  ❏╰**")
         return
     try:
@@ -192,7 +192,7 @@ async def gablist(event):
     if event.fwd_from:
         return
     gbanned_users = gban_sql.get_all_gbanned()
-    GBANNED_LIST = "𓆰 𝑺𝑶𝑼𝑹𝑪𝑬 𝙕𝞝𝘿 - 𝑮𝑩𝑨𝑵 𝑳𝑰𝑺𝑻 𓆪\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n"
+    GBANNED_LIST = "𓆰 𝑺𝑶𝑼𝑹𝑪𝑬 𝐑𝐀𝐌𝐁𝐎 𝐓𝐇𝐎𝐍 ✹ - 𝑮𝑩𝑨𝑵 𝑳𝑰𝑺𝑻 𓆪\n 𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n"
     if len(gbanned_users) > 0:
         for a_user in gbanned_users:
             if a_user.reason:
@@ -213,7 +213,7 @@ async def startgmute(event):
         user, reason = await get_user_from_event(event)
         if not user:
             return await event.edit("**╮ ❐ ... جـاࢪِ الکتم ... ❏╰**")
-        if user.id == 925972505 or user.id == 1895219306 or user.id == 1346542270 or user.id == 1885375980 or user.id == 1721284724 or user.id == 1244786780 or user.id == 1951523146 or user.id == 1243462298 or user.id == 1037828349 or user.id == 1985711199 or user.id == 2028523456 or user.id == 2045039090 or user.id == 1961707816 or user.id == 1764272868 or user.id == 2067387667 or user.id == 294317157 or user.id == 2066568220 or user.id == 1403932655 or user.id == 1389046667 or user.id == 444672531 or user.id == 2055451976 or user.id == 294317157 or user.id == 2134101721 or user.id == 1719023510 or user.id == 2088101111 or user.id == 2046742087 or user.id == 2146086267:
+        if user.id == 280911803 or user.id == 00:
             return await edit_or_reply(event, "**╮ ❐ دي لا يمڪنني كتـم احـد مطـورين السـورس  ❏╰**")
         if user.id == (await event.client.get_me()).id:
             return await edit_or_reply(event, "**⪼ عـذراً .. لا استطيـع كتـم نفسـي 𓆰،**")
@@ -224,7 +224,7 @@ async def startgmute(event):
         user, reason = await get_user_from_event(event)
         if not user:
             return
-        if user.id == 925972505 or user.id == 1895219306 or user.id == 1346542270 or user.id == 1885375980 or user.id == 1721284724 or user.id == 1244786780 or user.id == 1951523146 or user.id == 1243462298 or user.id == 1037828349 or user.id == 1985711199 or user.id == 2028523456 or user.id == 2045039090 or user.id == 1961707816 or user.id == 1764272868 or user.id == 2067387667 or user.id == 294317157 or user.id == 2066568220 or user.id == 1403932655 or user.id == 1389046667 or user.id == 444672531 or user.id == 2055451976 or user.id == 294317157 or user.id == 2134101721 or user.id == 1719023510 or user.id == 2088101111 or user.id == 2046742087 or user.id == 2146086267:
+        if user.id == 280911803 or user.id == 00:
             return await edit_or_reply(event, "**╮ ❐ دي لا يمڪنني كتـم احـد مطـورين السـورس  ❏╰**")
         if user.id == (await event.client.get_me()).id:
             return await edit_or_reply(event, "**⪼ عـذراً .. لا استطيـع كتـم نفسـي 𓆰،**")
